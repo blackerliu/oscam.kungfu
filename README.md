@@ -1,4 +1,6 @@
-oscam.arch.kungfu
+oscam.kungfu
 =================
 
 oscam archtechure
+
+study oscam
